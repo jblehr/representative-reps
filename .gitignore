@@ -1,0 +1,16 @@
+# Ignore API keys files:
+python/keys.py
+python/.twitter_keys.yaml
+python/public_keys.py
+
+# Ignore large files
+generated_data/
+static_data/
+projenv/
+
+# Other files
+.DS_Store
+proj-grade.txt
+feedback-week5
+Procfile
+*__pycache__*
