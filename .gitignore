@@ -5,7 +5,6 @@ python/public_keys.py
 
 # Ignore large files
 generated_data/
-static_data/
 projenv/
 
 # Other files
